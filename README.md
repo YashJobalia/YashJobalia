@@ -2,6 +2,7 @@
 
 <h2 align="center">Hello, I am Yash Jobalia!</h2>
 
+- 📖 Learning ReactJS
 - 🖊️ Actively seeking Full-Time opportunites in Software Development
 - ⚡ Primary Language - Java 
 - 💻 Looking forward to learn and work on new technologies 
@@ -29,6 +30,8 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <h4>Mobile Technologies</h4>
 
@@ -48,6 +51,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<h3>Get In Touch</h3>
+
+[![Email](https://img.shields.io/badge/Email-jobaliayash%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jobaliayash@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--jobalia-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jobalia/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YashJobalia-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/YashJobalia/)
 
 <!--
 **YashJobalia/YashJobalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
