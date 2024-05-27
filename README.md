@@ -1,6 +1,6 @@
 <img src="LinkedIn_Cover.png" />
 
-<h2 align="center">Hello, I am Yash Jobalia!</h2>
+<h1 align="center">Hello, I am Yash Jobalia!</h1>
 
 - 📖 Learning ReactJS
 - 🖊️ Actively seeking Full-Time opportunites in Software Development
@@ -8,12 +8,12 @@
 - 💻 Looking forward to learn and work on new technologies 
 - 🤝 Ready to collaborate on new or on-going projects 
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 <div align="justify">I am a passionate software developer with a Master of Science (MS) in Computer Science from George Mason University. I have a strong background in web development and application development. While my primary interest lies in software development, I have also explored the field of IoT during my coursework, which has sparked an interest in Real Time Embedded Systems. I have completed internships during both my bachelor's and master's programs. During my bachelor's, I interned for 10 months, and during my master's, I interned for 3 months. These experiences have equipped me with practical skills and a deeper understanding of the industry. I am always open to learning new things and technologies, facing new challenges, and striving to become a better version of myself.</div>
 
-<h3>Skills</h3>
+<h2>Skills</h2>
 
-<h4>Programming Languages</h4>
+<h3>Programming Languages</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,7 +21,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    
 
-<h4>Web Technologies</h4>
+<h3>Web Technologies</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,12 +33,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h4>Mobile Technologies</h4>
+<h3>Mobile Technologies</h3>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-<h5>Database</h5>
+<h3>Database</h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -46,13 +46,13 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h4>Tools</h4>
+<h3>Tools</h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3>Get In Touch</h3>
+<h2>Get In Touch</h2>
 
 [![Email](https://img.shields.io/badge/Email-jobaliayash%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jobaliayash@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--jobalia-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jobalia/)
