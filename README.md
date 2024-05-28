@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I am Yash Jobalia!</h1>
 
-- 📖 Learning ReactJS
+- 📖 Learning MERN Stack
 - 🖊️ Actively seeking Full-Time opportunites in Software Development
 - ⚡ Primary Language - Java 
 - 💻 Looking forward to learn and work on new technologies 
