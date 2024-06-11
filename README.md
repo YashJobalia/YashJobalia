@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I am Yash Jobalia!</h1>
 
-- 📖 Learning MERN Stack
+- 📖 Learning Next JS
 - 🖊️ Actively seeking Full-Time opportunites in Software Development
 - ⚡ Primary Language - Java 
 - 💻 Looking forward to learn and work on new technologies 
@@ -32,6 +32,8 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 <h3>Mobile Technologies</h3>
 
