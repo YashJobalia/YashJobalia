@@ -9,11 +9,7 @@
 
 <h2>About Me</h2>
 <div align="justify">
-I am a passionate software developer with a Master of Science (MS) in Computer Science from George Mason University. I have a strong background in web development and application development. While my primary interest lies in software development, I have also explored the field of IoT during my coursework, which has sparked an interest in Real Time Embedded Systems.
-
-I have significant full-time experience, having worked for 2 years at Farsoft Infotech Pvt Ltd during my bachelor's program. This role provided me with hands-on experience in various projects and honed my skills in both business logic and coding. Additionally, I completed a 3-month internship during my master's program, further enhancing my practical knowledge.
-
-These experiences have equipped me with a deeper understanding of the industry and a robust skill set. I am always open to learning new things and technologies, facing new challenges, and striving to become a better version of myself.
+I am a passionate software developer with a Master of Science (MS) in Computer Science from George Mason University. I have a strong background in web development and application development. While my primary interest lies in software development, I have also explored the field of IoT during my coursework, which has sparked an interest in Real Time Embedded Systems. I have significant full-time experience, having worked for 2 years at Farsoft Infotech Pvt Ltd during my bachelor's program. This role provided me with hands-on experience in various projects and honed my skills in both business logic and coding. Additionally, I completed a 3-month internship during my master's program, further enhancing my practical knowledge. These experiences have equipped me with a deeper understanding of the industry and a robust skill set. I am always open to learning new things and technologies, facing new challenges, and striving to become a better version of myself.
 </div>
 
 <h2>Skills</h2>
